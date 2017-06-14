@@ -23,6 +23,9 @@ section {
     color: white;
     background-color: #222;
 }
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    height:100%;
+}
 
 @media (max-width: 767px) {
     section {
